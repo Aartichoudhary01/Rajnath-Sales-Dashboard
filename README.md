@@ -34,11 +34,10 @@ The project was completed using the following steps:
    - Converted data types
 
 2. Data Transformation:
-   - Created calculated columns and measures using DAX
    - Built KPIs such as Total Sales, Total Profit, and Profit Margin
 
 3. Data Modeling:
-   - Established relationships between tables (if multiple tables used)
+   - Established relationships between tables
 
 4. Dashboard Design:
    - Used consistent color themes and layout
