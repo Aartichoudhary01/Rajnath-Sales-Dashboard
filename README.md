@@ -14,7 +14,7 @@ The dataset used in this project contains transactional sales data with the foll
 
 The dataset represents retail sales across multiple product categories such as Electronics, Furniture, and Home Decor.
 
-# Questions / KPIs
+## Questions / KPIs
 The dashboard answers the following key business questions:
 
 - What is the total sales, profit, and quantity sold?
@@ -49,7 +49,7 @@ The project was completed using the following steps:
    - Highlighted key insights using visual hierarchy
      
 ## Dashboard
-"C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-03-31 201528.png"
+Screenshot 2026-03-31 201528.png
 ## Project Insights
 - Electronics category contributes the highest share of total sales.
 - Laptops and Kitchen Appliances are top-performing sub-categories in terms of profit.
