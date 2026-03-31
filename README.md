@@ -1,7 +1,7 @@
 # Rajnath-Sales-Dashboard
-# Project Overview 
+## Project Overview 
 The objective of this project is to analyze sales and profit performance of Rajnath Enterprise using Power BI. The dashboard aims to provide actionable insights into sales trends, category performance, customer purchasing behavior, and profitability to support data-driven business decisions.
-# Dataset used 
+## Dataset used 
 The dataset used in this project contains transactional sales data with the following key fields:
 
 - Order Date
@@ -25,7 +25,7 @@ The dashboard answers the following key business questions:
 - Which regions generate the highest sales?
 - What is the overall profit margin?
 
-# Process
+## Process
 The project was completed using the following steps:
 
 1. Data Cleaning:
@@ -48,16 +48,16 @@ The project was completed using the following steps:
    - Used bar charts, donut charts, line charts, and KPI cards
    - Highlighted key insights using visual hierarchy
      
-# Dashboard
+## Dashboard
 "C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-03-31 201528.png"
-# Project Insights
+## Project Insights
 - Electronics category contributes the highest share of total sales.
 - Laptops and Kitchen Appliances are top-performing sub-categories in terms of profit.
 - Credit Card is the most preferred payment method among customers.
 - Sales show a peak in February compared to other months.
 - Some sub-categories generate high sales but relatively low profit, indicating margin issues.
 
-# Final Conclusion
+## Final Conclusion
 The dashboard provides a comprehensive overview of business performance by combining sales, profit, and customer behavior insights. It helps identify high-performing products, profitable categories, and areas needing improvement.
 
 This analysis can assist business stakeholders in optimizing product strategy, improving profitability, and making informed decisions based on data.
