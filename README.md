@@ -49,7 +49,8 @@ The project was completed using the following steps:
    - Highlighted key insights using visual hierarchy
      
 ## Dashboard
-https://github.com/Aartichoudhary01/Rajnath-Sales-Dashboard/blob/main/Screenshot%202026-03-31%20201528.png
+<img width="1153" height="651" alt="Screenshot 2026-03-31 201528" src="https://github.com/user-attachments/assets/a2b11971-bb14-441f-aa24-cca6e299aa82" />
+
 ## Project Insights
 - Electronics category contributes the highest share of total sales.
 - Laptops and Kitchen Appliances are top-performing sub-categories in terms of profit.
