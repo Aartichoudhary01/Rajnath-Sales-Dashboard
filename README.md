@@ -48,6 +48,8 @@ The project was completed using the following steps:
    - Used bar charts, donut charts, line charts, and KPI cards
    - Highlighted key insights using visual hierarchy
      
+# Dashboard
+"C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-03-31 201528.png"
 # Project Insights
 - Electronics category contributes the highest share of total sales.
 - Laptops and Kitchen Appliances are top-performing sub-categories in terms of profit.
